@@ -1,0 +1,30 @@
+{
+    "identificador": 1,
+    "nombre": "Videos",
+    "tipo": "carpeta",
+    "ubicacion": "/ruta/carpeta1",
+    "tamaño": 0,
+    "fecha": 1641040496789,
+    "lista_Archivos": [{
+            "identificador": 1,
+            "nombre": "El baile de la morsa",
+            "tipo": "mp4",
+            "ubicacion": "/Archivos/mate.txt",
+            "tamaño": 34500,
+            "fecha": 1687811418921
+        }, {
+            "identificador": 4,
+            "nombre": "redes comando",
+            "tipo": "txt",
+            "ubicacion": "/Archivos/redes comando.txt",
+            "tamaño": 10,
+            "fecha": 1689100580235
+        }, {
+            "identificador": 4,
+            "nombre": "REDES EF",
+            "tipo": "txt",
+            "ubicacion": "/Archivos/REDES EF.txt",
+            "tamaño": 10,
+            "fecha": 1689109100240
+        }]
+}

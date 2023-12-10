@@ -1,0 +1,16 @@
+{
+    "identificador": 1,
+    "nombre": "Musica",
+    "tipo": "carpeta",
+    "ubicacion": "/ruta/carpeta1",
+    "tamaño": 0,
+    "fecha": 1641040496789,
+    "lista_Archivos": [{
+            "identificador": 1,
+            "nombre": "Ya te olvide - Tony Rosado",
+            "tipo": "mp3",
+            "ubicacion": "/Musica/Ya te olvide - Tony Rosado.txt",
+            "tamaño": 10,
+            "fecha": 1687811418921
+        }]
+}

@@ -1,0 +1,28 @@
+[
+    {   
+        "id": "001",
+        "nombre": "Teclado",
+        "imagen": "src/main/resources/dispositivos/teclado.png",
+        "prioridad": 0
+    }, {
+        "id": "002",
+        "nombre": "Impresora",
+        "imagen": "src/main/resources/dispositivos/impresora.png",
+        "prioridad": 0
+    }, {
+        "id": "003",
+        "nombre": "Mouse",
+        "imagen": "src/main/resources/dispositivos/mouse.png",
+        "prioridad": 0
+    },  {
+        "id": "004",
+        "nombre": "Audifonos",
+        "imagen": "src/main/resources/dispositivos/audifonos.png",
+        "prioridad": 0
+    },  {
+        "id": "005",
+        "nombre": "Disco Duro",
+        "imagen": "src/main/resources/dispositivos/disco_duro.png",
+        "prioridad": 0
+    }
+]

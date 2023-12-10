@@ -1,0 +1,30 @@
+{
+    "identificador": 1,
+    "nombre": "Archivos",
+    "tipo": "carpeta",
+    "ubicacion": "/ruta/carpeta1",
+    "tamaño": 0,
+    "fecha": 1641040496789,
+    "lista_Archivos": [{
+            "identificador": 4,
+            "nombre": "mate",
+            "tipo": "txt",
+            "ubicacion": "/Archivos/mate.txt",
+            "tamaño": 10,
+            "fecha": 1687811418921
+        }, {
+            "identificador": 5,
+            "nombre": "plataformas",
+            "tipo": "txt",
+            "ubicacion": "/Archivos/plataformas.txt",
+            "tamaño": 10,
+            "fecha": 1687814497648
+        }, {
+            "identificador": 3,
+            "nombre": "gaaaaaa",
+            "tipo": "txt",
+            "ubicacion": "/Archivos/gaaaaaa.txt",
+            "tamaño": 10,
+            "fecha": 1688087305271
+        }]
+}
